@@ -1,10 +1,8 @@
-# UoM COMP90054 AI Planning for Autonomy - Pacman Project Template
+# Pacman Project 
+![](https://img.shields.io/badge/Game-Pacman-green.svg)
+![](https://img.shields.io/badge/Strategy-ApproximateQ&A*-blue.svg)
+![](https://img.shields.io/badge/Language-python2-orange.svg)
 
-This repository is used by students to fork their own repository to work for the team submission.
+![image](https://github.com/alanwangwyz/AI-pacman/blob/master/image/220px-Pac-man.png)
 
-You must FORK **privately** this repository and change slightly the name to **comp90054-pacman-project-\<your student number\>**
-
-Please follow the instructions in LMS.
-
-Hope you enjoy this project!
 
