@@ -14,7 +14,7 @@ _weights_ and _features_ to do the update
 
 __`chaseEnemyValue`, `capsuleValue`, `successorScore`__
 
-👉`A\*` to escape when enemy is approaching e.g. within 6 blocks
+👉`A star` to escape when enemy is approaching e.g. within 6 blocks
 
 
 
