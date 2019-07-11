@@ -5,4 +5,5 @@
 
 ![image](https://github.com/alanwangwyz/AI-pacman/blob/master/image/facebook-messenger-pac-man.png)
 
-
+## Acknowledgement ##
+🔐`Berkeley Un`
