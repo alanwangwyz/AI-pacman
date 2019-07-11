@@ -11,10 +11,6 @@
 ## Strategy ##
 👉`Approximate Q learning`algorithm to adjust pacman's movement as keep following the maxmimum value updated by the formula
 
-<img src="http://latex.codecogs.com/gif.latex?\$Q ( s , a ) : = Q ( s , a ) + \alpha \left[ r + \gamma \max _ { a ^ { \prime } } Q \left( s ^ { \prime } , a ^ { \prime } \right) - Q ( s , a ) ) \right]$" />
-
-
-
-👉``
+👉`A star` to escape when enemy is approaching e.g. within 6 blocks
 
 👉``
