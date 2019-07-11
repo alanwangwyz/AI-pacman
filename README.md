@@ -10,7 +10,8 @@
 
 ## Strategy ##
 👉`Approximate Q learning`algorithm to adjust pacman's movement as keep following the maxmimum value updated by the formula
-Generate weights and features to do the update
+_weights_ and _features_ to do the update
+
 __`chaseEnemyValue`, `capsuleValue`, `successorScore`__
 
 👉`A\*` to escape when enemy is approaching e.g. within 6 blocks
